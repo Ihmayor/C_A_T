@@ -1,4 +1,4 @@
-Migrated from CDM's Gitlab Server. 
+Migrated from CDM's Gitlab Server. Imported w/o commits due to basic data plan git lfs limits https://gitlab.thecdm.ca/irene_mayor/cloud-janitor 
 
 # Clouds Awakening Trouble: Rickety Risks and Magic Tricks
 
