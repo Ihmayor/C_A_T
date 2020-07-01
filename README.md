@@ -1,8 +1,8 @@
-# Cloud Janitor 
+# Clouds Awakening Trouble: Rickety Risks and Magic Tricks
 
-This is where the unity project will live. Only the MOST RECENT resources must be put in here. So if new sprites or models are designed, the old ones must be removed and replaced. 
+A collaborative project with fellow Cohort C14 Members: Jeanette (UX/UI Designer), Maple (Project Manger), Andre (2D/3D Artist), Alessandra(UX/UI Designer), and myself Irene (Programmer). 
 
-
+A mobile 2D game with stacking and balancing mechanics. As per the challenge design, it also incoporates a proof of concept reward/buff system. Aside from implementing iterative game design development, it makes usage of ScriptableDataObjects for scalable code. 
 
 
 # Instructions to Download these Draft Unity Apps onto your phones:
