@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{40D59651-7534-18A3-DDAA-AFA9CE22972F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Resources/ScriptsAndData/Player-Related/TouchPlayerController.cs">
+    <Files>
+      <File FileName="Assets/Resources/ScriptsAndData/Player-Related/TouchPlayerController.cs" Line="97" Column="33" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CloudJanitorUnity" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="ScriptsAndData" expanded="True">
+                  <Node name="Player-Related" expanded="True">
+                    <Node name="TouchPlayerController.cs" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="8666169a-117b-4465-a521-798bb36cd200" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

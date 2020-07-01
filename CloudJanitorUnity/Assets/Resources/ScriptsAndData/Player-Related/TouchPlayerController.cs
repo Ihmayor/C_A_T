@@ -86,6 +86,23 @@ public class TouchPlayerController : MonoBehaviour
             ResetBuildingWait();
             gameObject.transform.GetChild(0).gameObject.SetActive(false);
         }
+
+        if (Input.GetMouseButtonDown(0) && notTouchingUI)
+        {
+            UpdateMousePosition();
+            PlayerTriggerMoving();
+        }
+        else if (Input.GetMouseButtonUp(0))
+        {
+            MovePlayerObject(0);
+        }
+
+
+    }
+
+    private void UpdateMousePosition()
+    {
+        touchPosition = Camera.main.ScreenToWorldPoint(Input.mousePosition);
     }
 
     private void UpdateTouchPosition()
