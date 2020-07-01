@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 458049109aeffeb46bc8c9d10ba8cae9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Data: {instanceID: 0}
+  - LevelNum: {fileID: 11400000, guid: eedcb79413a441e41b98237c62e73009, type: 2}
+  - CoinsCollectedInLevel: {fileID: 11400000, guid: 015107f7ffd13d547b2a67cef040713c,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

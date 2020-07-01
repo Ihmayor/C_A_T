@@ -1,0 +1,2719 @@
+fileFormatVersion: 2
+guid: 89503770cd00755468890ab3974a5ef1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9043043156842556690
+    second: SP_Sheet_Eye_0
+  - first:
+      213: -705432651455909759
+    second: SP_Sheet_Eye_1
+  - first:
+      213: 131378080348711709
+    second: SP_Sheet_Eye_2
+  - first:
+      213: -3427003474214122532
+    second: SP_Sheet_Eye_3
+  - first:
+      213: 7141506654603898967
+    second: SP_Sheet_Eye_4
+  - first:
+      213: 7183894971869653384
+    second: SP_Sheet_Eye_5
+  - first:
+      213: -8798310839465866817
+    second: SP_Sheet_Eye_6
+  - first:
+      213: 5124521142786878298
+    second: SP_Sheet_Eye_7
+  - first:
+      213: -791820264526329180
+    second: SP_Sheet_Eye_8
+  - first:
+      213: 3213379081405131577
+    second: SP_Sheet_Eye_9
+  - first:
+      213: -8145379576962489463
+    second: SP_Sheet_Eye_10
+  - first:
+      213: 4514909744351026296
+    second: SP_Sheet_Eye_11
+  - first:
+      213: -3003123322764607363
+    second: SP_Sheet_Eye_12
+  - first:
+      213: 4976756902814261413
+    second: SP_Sheet_Eye_13
+  - first:
+      213: -3696408413455913206
+    second: SP_Sheet_Eye_14
+  - first:
+      213: 2740674862978393534
+    second: SP_Sheet_Eye_15
+  - first:
+      213: -7141776712819015504
+    second: SP_Sheet_Eye_16
+  - first:
+      213: -8123713075298313837
+    second: SP_Sheet_Eye_17
+  - first:
+      213: 841324319636806782
+    second: SP_Sheet_Eye_18
+  - first:
+      213: 6434254841203429200
+    second: SP_Sheet_Eye_19
+  - first:
+      213: -6953345222539159155
+    second: SP_Sheet_Eye_20
+  - first:
+      213: -1728723912311929496
+    second: SP_Sheet_Eye_21
+  - first:
+      213: 7137148188134060108
+    second: SP_Sheet_Eye_22
+  - first:
+      213: -7764476784955593262
+    second: SP_Sheet_Eye_23
+  - first:
+      213: -6345388205023658968
+    second: SP_Sheet_Eye_24
+  - first:
+      213: 7974562523463734812
+    second: SP_Sheet_Eye_25
+  - first:
+      213: -5576142149946217192
+    second: SP_Sheet_Eye_26
+  - first:
+      213: -7924151169958709025
+    second: SP_Sheet_Eye_27
+  - first:
+      213: 2831847001321674599
+    second: SP_Sheet_Eye_28
+  - first:
+      213: -3164672837129867685
+    second: SP_Sheet_Eye_29
+  - first:
+      213: -478777682393691205
+    second: SP_Sheet_Eye_30
+  - first:
+      213: -8485079152550641092
+    second: SP_Sheet_Eye_31
+  - first:
+      213: -4413892421083627557
+    second: SP_Sheet_Eye_32
+  - first:
+      213: 125598259407985253
+    second: SP_Sheet_Eye_33
+  - first:
+      213: -5217854307544433828
+    second: SP_Sheet_Eye_34
+  - first:
+      213: -3515496581292291858
+    second: SP_Sheet_Eye_35
+  - first:
+      213: -6261744120319763643
+    second: SP_Sheet_Eye_36
+  - first:
+      213: 4904529870724205411
+    second: SP_Sheet_Eye_37
+  - first:
+      213: 5456564970543321761
+    second: SP_Sheet_Eye_38
+  - first:
+      213: 4667939539408587550
+    second: SP_Sheet_Eye_39
+  - first:
+      213: -6572942132106284343
+    second: SP_Sheet_Eye_40
+  - first:
+      213: 1273850465118681604
+    second: SP_Sheet_Eye_41
+  - first:
+      213: 639469092010903603
+    second: SP_Sheet_Eye_42
+  - first:
+      213: -1879598518205477764
+    second: SP_Sheet_Eye_43
+  - first:
+      213: 2275734595599344165
+    second: SP_Sheet_Eye_44
+  - first:
+      213: 4225640704545763216
+    second: SP_Sheet_Eye_45
+  - first:
+      213: -8587674733855073314
+    second: SP_Sheet_Eye_46
+  - first:
+      213: 5951129921938115331
+    second: SP_Sheet_Eye_47
+  - first:
+      213: 2904823914937980784
+    second: SP_Sheet_Eye_48
+  - first:
+      213: 1844208602639402151
+    second: SP_Sheet_Eye_49
+  - first:
+      213: 7962956935827030435
+    second: SP_Sheet_Eye_50
+  - first:
+      213: 3373152809725921966
+    second: SP_Sheet_Eye_51
+  - first:
+      213: 1350992253267450636
+    second: SP_Sheet_Eye_52
+  - first:
+      213: -7215706695064762293
+    second: SP_Sheet_Eye_53
+  - first:
+      213: 6404161059165570825
+    second: SP_Sheet_Eye_54
+  - first:
+      213: 6606147081421367785
+    second: SP_Sheet_Eye_55
+  - first:
+      213: 8168507003142452990
+    second: SP_Sheet_Eye_56
+  - first:
+      213: 843028212552554764
+    second: SP_Sheet_Eye_57
+  - first:
+      213: -985708563507806218
+    second: SP_Sheet_Eye_58
+  - first:
+      213: 5190313843396045398
+    second: SP_Sheet_Eye_59
+  - first:
+      213: -1934170044496592210
+    second: SP_Sheet_Eye_60
+  - first:
+      213: 918500205373599811
+    second: SP_Sheet_Eye_61
+  - first:
+      213: 5330771712634038155
+    second: SP_Sheet_Eye_62
+  - first:
+      213: 7782051534379473092
+    second: SP_Sheet_Eye_63
+  - first:
+      213: -3346409575962882033
+    second: SP_Sheet_Eye_64
+  - first:
+      213: 2593085196359020257
+    second: SP_Sheet_Eye_65
+  - first:
+      213: 8432963085743891985
+    second: SP_Sheet_Eye_66
+  - first:
+      213: -5721313964775481466
+    second: SP_Sheet_Eye_67
+  - first:
+      213: 7628138355354529471
+    second: SP_Sheet_Eye_68
+  - first:
+      213: 5962879414576287318
+    second: SP_Sheet_Eye_69
+  - first:
+      213: 2207799414577104739
+    second: SP_Sheet_Eye_70
+  - first:
+      213: -7345176802713963142
+    second: SP_Sheet_Eye_71
+  - first:
+      213: 308216549623019837
+    second: SP_Sheet_Eye_72
+  - first:
+      213: -5449780846533148800
+    second: SP_Sheet_Eye_73
+  - first:
+      213: -2853915176619788483
+    second: SP_Sheet_Eye_74
+  - first:
+      213: -1139333631813711186
+    second: SP_Sheet_Eye_75
+  - first:
+      213: -532652564082428079
+    second: SP_Sheet_Eye_76
+  - first:
+      213: -7844980638770867456
+    second: SP_Sheet_Eye_77
+  - first:
+      213: 8449429156814341872
+    second: SP_Sheet_Eye_78
+  - first:
+      213: -5007353753047378628
+    second: SP_Sheet_Eye_79
+  - first:
+      213: 8004558299707331190
+    second: SP_Sheet_Eye_80
+  - first:
+      213: -4182790195765892247
+    second: SP_Sheet_Eye_81
+  - first:
+      213: -7491728370633152070
+    second: SP_Sheet_Eye_82
+  - first:
+      213: 7604799987982208174
+    second: SP_Sheet_Eye_83
+  - first:
+      213: 3746130952299808716
+    second: SP_Sheet_Eye_84
+  - first:
+      213: -5072191553911756512
+    second: SP_Sheet_Eye_85
+  - first:
+      213: -2913389096224143273
+    second: SP_Sheet_Eye_86
+  - first:
+      213: -5506802847649104388
+    second: SP_Sheet_Eye_87
+  - first:
+      213: -1058646303934652882
+    second: SP_Sheet_Eye_88
+  - first:
+      213: 4625583438603022658
+    second: SP_Sheet_Eye_89
+  - first:
+      213: 5921757189999817647
+    second: SP_Sheet_Eye_90
+  - first:
+      213: -7356606691490009164
+    second: SP_Sheet_Eye_91
+  - first:
+      213: -7568551586210848980
+    second: SP_Sheet_Eye_92
+  - first:
+      213: 7640497807525041643
+    second: SP_Sheet_Eye_93
+  - first:
+      213: -1936539138061408812
+    second: SP_Sheet_Eye_94
+  - first:
+      213: -506489340568623445
+    second: SP_Sheet_Eye_95
+  - first:
+      213: -5621620346131110886
+    second: SP_Sheet_Eye_96
+  - first:
+      213: 7532263220339601568
+    second: SP_Sheet_Eye_97
+  - first:
+      213: -8336381011470272020
+    second: SP_Sheet_Eye_98
+  - first:
+      213: -2407120550202027817
+    second: SP_Sheet_Eye_99
+  - first:
+      213: 170925138930266131
+    second: SP_Sheet_Eye_100
+  - first:
+      213: 8366012764931986015
+    second: SP_Sheet_Eye_101
+  - first:
+      213: -1149770424538956464
+    second: SP_Sheet_Eye_102
+  - first:
+      213: -6821430811416613195
+    second: SP_Sheet_Eye_103
+  - first:
+      213: -2542636812195340339
+    second: SP_Sheet_Eye_104
+  - first:
+      213: 5649691359442243479
+    second: SP_Sheet_Eye_105
+  - first:
+      213: -366558873950057278
+    second: SP_Sheet_Eye_106
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8487
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140e6b1e7ce5ece4689691d6be2217a0
+      internalID: -9043043156842556690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_1
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 8487
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4535fa9e6ea73cd42802d52b7fb7456f
+      internalID: -705432651455909759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_2
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 8487
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508ae1b944ed34e4fb4c9445ac7b5e85
+      internalID: 131378080348711709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_3
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 8487
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2193a537a0852a438b37247623238ee
+      internalID: -3427003474214122532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_4
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 8487
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104519778f89b0e408450439f036c1db
+      internalID: 7141506654603898967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8118
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c744db45bd8fc46bc3f15bf544d8b3
+      internalID: 7183894971869653384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_6
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 8118
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e0d03281f0bb8479b943363281d92c
+      internalID: -8798310839465866817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_7
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 8118
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47622ff3493009142828b8f7ab629315
+      internalID: 5124521142786878298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_8
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 8118
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb17dda28a4f5cc43af676deed41dca9
+      internalID: -791820264526329180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_9
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 8118
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b8977cfee82fd4da8eb386e75ee178
+      internalID: 3213379081405131577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7749
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8f3c3ce93d8c94da36a029d130c682
+      internalID: -8145379576962489463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_11
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 7749
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb160d2b650141149ad7d0e554c827d4
+      internalID: 4514909744351026296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_12
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 7749
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ebaaa2e62beb74a9cef8a03d299034
+      internalID: -3003123322764607363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_13
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 7749
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9f0c38f0a50274194ee07e7c4dfac4
+      internalID: 4976756902814261413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_14
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 7749
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9efe8ec119fab284e88d1fa9c132c04f
+      internalID: -3696408413455913206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7380
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b09b6d7a5a3b44b850f5a5797a7e20
+      internalID: 2740674862978393534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_16
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 7380
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122e9c468c8052a4ab2f41e8f36be1e7
+      internalID: -7141776712819015504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_17
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 7380
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03796ba0e11d774ba8e6da8e1efedf8
+      internalID: -8123713075298313837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_18
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 7380
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1885d5f6558c37d47ae59f5349ddea41
+      internalID: 841324319636806782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_19
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 7380
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e9a49a98e984645a8def10b627e286
+      internalID: 6434254841203429200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7011
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc1b4a0530fc994793c2256bc04efd7
+      internalID: -6953345222539159155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_21
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 7011
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd00fa3f790b51d4db1f56d228f330cf
+      internalID: -1728723912311929496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_22
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 7011
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42cb26695d10584d860d8b4b46d4e40
+      internalID: 7137148188134060108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_23
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 7011
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f94c6a02abc774c9f24b45d414b3a4
+      internalID: -7764476784955593262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_24
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 7011
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5a906e253abe044a85f6bcef9903cd
+      internalID: -6345388205023658968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6642
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd39f8ff9aa8ac54282531d54e154982
+      internalID: 7974562523463734812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_26
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 6642
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4364455371856984aba46e295a6a40e4
+      internalID: -5576142149946217192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_27
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 6642
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f904fb5383aecf24b844d33825bc4674
+      internalID: -7924151169958709025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_28
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 6642
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9add85626d206d64bbbac3ec1993bf6d
+      internalID: 2831847001321674599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_29
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 6642
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0d9ebde424f7e46a7043379b533497
+      internalID: -3164672837129867685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6273
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02cc2c909fc9e814f96a6c0402b78408
+      internalID: -478777682393691205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_31
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 6273
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5e25e35d20c6a4b888ebadd4e5f37f
+      internalID: -8485079152550641092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_32
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 6273
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08449343c1da72b4190b6c3dfbb11f31
+      internalID: -4413892421083627557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_33
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 6273
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b87e8d0ff399cc42b0c737ccb8dfdb8
+      internalID: 125598259407985253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_34
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 6273
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2949e221c418c8247a1db3af9bdf43e1
+      internalID: -5217854307544433828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5904
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d52c6b27b096e44a8652c0af1c73e73
+      internalID: -3515496581292291858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_36
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 5904
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3d22ed51a9e2b47bd52b1076f45872
+      internalID: -6261744120319763643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_37
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 5904
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63436e2b830aec848bb7358b5ee7fcf0
+      internalID: 4904529870724205411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_38
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 5904
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b940a975179fe3f45ae55a501307e045
+      internalID: 5456564970543321761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_39
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 5904
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ddd68dedd29d82409e0e3906ed71b6b
+      internalID: 4667939539408587550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5535
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740f72b3d4f0b874ea51acedf08f54cf
+      internalID: -6572942132106284343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_41
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 5535
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb0c5f95ebf41a4fab05417732062f3
+      internalID: 1273850465118681604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_42
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 5535
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35cc9693da8dadf4295cc8829cc35c24
+      internalID: 639469092010903603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_43
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 5535
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e850caf2b4062c84b90ce0478df92c96
+      internalID: -1879598518205477764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_44
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 5535
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe8bd6990323a544b966b29e5234267
+      internalID: 2275734595599344165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5166
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10368cc51fc9c54fa344419a78af1c8
+      internalID: 4225640704545763216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_46
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 5166
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885a6d2a27cf1ee49a2ce541ac72a9d7
+      internalID: -8587674733855073314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_47
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 5166
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a293d6a9051b363439117486ab01ee6b
+      internalID: 5951129921938115331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_48
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 5166
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad1b50d34094f242aa4ce4356618874
+      internalID: 2904823914937980784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_49
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 5166
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09db4de13f2cf7240a5c9bf223ee62c5
+      internalID: 1844208602639402151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4797
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc5b04165f473748b341f28505af83d
+      internalID: 7962956935827030435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_51
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 4797
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd086a37b3e7b13459a9614dfb5972c0
+      internalID: 3373152809725921966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_52
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 4797
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1491d7106146345bac8c374c9d7864
+      internalID: 1350992253267450636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_53
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 4797
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1ef6d6c21fa4e4c9739f1ada4ea91d
+      internalID: -7215706695064762293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_54
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 4797
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6e64c6b84c53e4b87d12e511113cd9
+      internalID: 6404161059165570825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4428
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603138736a18c4248a2d97a580558b18
+      internalID: 6606147081421367785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_56
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 4428
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bbe13e518f376c4ab035e70d72a4a47
+      internalID: 8168507003142452990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_57
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 4428
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef9a479b8024a6459c25df49f64455f
+      internalID: 843028212552554764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_58
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 4428
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b0014440663d548b3efb1c44eaae68
+      internalID: -985708563507806218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_59
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 4428
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a08c20586703554b8e6bde3d3f44151
+      internalID: 5190313843396045398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4059
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae5a2e6ea80d144fb53f6c8ce2d27ff
+      internalID: -1934170044496592210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_61
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 4059
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8921645a03f95048b23a7702212aee9
+      internalID: 918500205373599811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_62
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 4059
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77187b7a930463344a2c2e1333c3ed05
+      internalID: 5330771712634038155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_63
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 4059
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb34298b76569f43966368d14188ab3
+      internalID: 7782051534379473092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_64
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 4059
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e20d8dba3c83cb45b4b62769481a4a9
+      internalID: -3346409575962882033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3690
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c972a1c9d228cc746828bd5162d397e2
+      internalID: 2593085196359020257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_66
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 3690
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f12a669bc608442b25aa6d855c1f0b
+      internalID: 8432963085743891985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_67
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 3690
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d787de5c4e4c85479558bca5412987a
+      internalID: -5721313964775481466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_68
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 3690
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1331b0a1ee0764caaf0dd33cabcd98
+      internalID: 7628138355354529471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_69
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 3690
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c439d15d61b6b4ca4dc5ddd37d9a79
+      internalID: 5962879414576287318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3321
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f07556367a7db45b7c7a75125bb7e6
+      internalID: 2207799414577104739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_71
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 3321
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1315f85fd7d90af4c9b59e2338187605
+      internalID: -7345176802713963142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_72
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 3321
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0cf06f84fc76f49b8221c52ae9a3c1
+      internalID: 308216549623019837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_73
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 3321
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00046acd7d3d67243a19ce57d6e28b2f
+      internalID: -5449780846533148800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_74
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 3321
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbde059ca9a68f3478cd329d2f243ec6
+      internalID: -2853915176619788483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2952
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459736073badc714fba1a64fbe1dadf1
+      internalID: -1139333631813711186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_76
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 2952
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41978d57b63903248be8113623827928
+      internalID: -532652564082428079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_77
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 2952
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155e02448b0b0cb48974a01997e9c0ff
+      internalID: -7844980638770867456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_78
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 2952
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363c4599e5c6b92499c8a4fecb6c5b0f
+      internalID: 8449429156814341872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_79
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 2952
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fefca03198442974b894ff2e9aebf835
+      internalID: -5007353753047378628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2583
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6d291425b59dc4090c058c6ced9dea
+      internalID: 8004558299707331190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_81
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 2583
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f362122e5488894b87ce01c1287ce7d
+      internalID: -4182790195765892247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_82
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 2583
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501cafc6899336842922a61c723fef31
+      internalID: -7491728370633152070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_83
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 2583
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83475ab28a3c8141bed3982a276dbe8
+      internalID: 7604799987982208174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_84
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 2583
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc72aeab9f81dd43af939ff963ea24e
+      internalID: 3746130952299808716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2214
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a9cfd038e31f34cb9fe52cc0920660
+      internalID: -5072191553911756512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_86
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 2214
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef0181816a0ad740a281f956c311853
+      internalID: -2913389096224143273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_87
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 2214
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e378c108c423f944d935429f4fdef6c0
+      internalID: -5506802847649104388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_88
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 2214
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afbd3e3df6182264a956b392281c9cf0
+      internalID: -1058646303934652882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_89
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 2214
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5cc93d9d2d3cb146b24ef611ded39aa
+      internalID: 4625583438603022658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1845
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb17b6921921de488901dd82cd16618
+      internalID: 5921757189999817647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_91
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1845
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960825c481a4c684695ce7caea33b205
+      internalID: -7356606691490009164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_92
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1845
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801dcb95d64fd3c4f92583105fa052e7
+      internalID: -7568551586210848980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_93
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 1845
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668ab58e82b7e1443a88a5e3b25ca7c8
+      internalID: 7640497807525041643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_94
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 1845
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfcd1111a5024b64c83bc6a9826c3add
+      internalID: -1936539138061408812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1476
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31677d1dccc60da4e88623fcb1221b41
+      internalID: -506489340568623445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_96
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1476
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e503b78d36ee51941ab1e85e8b788677
+      internalID: -5621620346131110886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_97
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1476
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581ab8db45cefd0499eebfb6f7dddceb
+      internalID: 7532263220339601568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_98
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 1476
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3dd887d135185449d97c9a9a20d7d6
+      internalID: -8336381011470272020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_99
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 1476
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12384d64a9b4a04ab297cf652eb6966
+      internalID: -2407120550202027817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1107
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7db27fd1a50b8419cb9853f03552ed
+      internalID: 170925138930266131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_101
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1107
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f141d2294942cf40b58baad6a676051
+      internalID: 8366012764931986015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_102
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1107
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62489602a8cbf494faf3b75d3430ea15
+      internalID: -1149770424538956464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_103
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 1107
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684f2ced94bc2bf418dbf7c31758d2c5
+      internalID: -6821430811416613195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_104
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 1107
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7c151116af8b043a9fe0c0266ee327
+      internalID: -2542636812195340339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 738
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82574bc84ca7ce4998bded40998902e
+      internalID: 5649691359442243479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_106
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 738
+        width: 492
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd3ca20a40ac8349994ee9e10961876
+      internalID: -366558873950057278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

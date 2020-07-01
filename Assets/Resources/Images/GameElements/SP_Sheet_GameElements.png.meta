@@ -1,0 +1,691 @@
+fileFormatVersion: 2
+guid: 9c20f9b845f80db4fb70ed7484765f53
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4044627308257269237
+    second: SP_Sheet_GameElements_0
+  - first:
+      213: -7383940997557548574
+    second: SP_Sheet_GameElements_1
+  - first:
+      213: 5861541131833664673
+    second: SP_Sheet_GameElements_2
+  - first:
+      213: -5541865641664223647
+    second: SP_Sheet_GameElements_3
+  - first:
+      213: 4860634621280885771
+    second: SP_Sheet_GameElements_4
+  - first:
+      213: -814247119516405713
+    second: SP_Sheet_GameElements_5
+  - first:
+      213: 4051979618834562675
+    second: SP_Sheet_GameElements_6
+  - first:
+      213: 7967109476607344857
+    second: SP_Sheet_GameElements_7
+  - first:
+      213: -1363762652754919130
+    second: SP_Sheet_GameElements_8
+  - first:
+      213: -6645948869927379247
+    second: SP_Sheet_GameElements_9
+  - first:
+      213: -6610346629732831479
+    second: SP_Sheet_GameElements_10
+  - first:
+      213: -8188442012857151206
+    second: SP_Sheet_GameElements_11
+  - first:
+      213: 916786980596490933
+    second: SP_Sheet_GameElements_12
+  - first:
+      213: -379093980428881343
+    second: SP_Sheet_GameElements_13
+  - first:
+      213: 8725692686949297881
+    second: SP_Sheet_GameElements_14
+  - first:
+      213: -5428288822637220955
+    second: SP_Sheet_GameElements_15
+  - first:
+      213: -3907280037346888453
+    second: SP_Sheet_GameElements_16
+  - first:
+      213: -4639307865045022562
+    second: SP_Sheet_GameElements_17
+  - first:
+      213: -3574455461342780502
+    second: SP_Sheet_GameElements_18
+  - first:
+      213: -4414585366516414879
+    second: SP_Sheet_GameElements_19
+  - first:
+      213: -5444008445898071472
+    second: SP_Sheet_GameElements_20
+  - first:
+      213: 8453332954275984055
+    second: SP_Sheet_GameElements_21
+  - first:
+      213: 7137452547237075159
+    second: SP_Sheet_GameElements_22
+  - first:
+      213: -5000762527439309694
+    second: SP_Sheet_GameElements_23
+  - first:
+      213: -5177604629898018743
+    second: SP_Sheet_GameElements_24
+  - first:
+      213: 4981094580231417383
+    second: SP_Sheet_GameElements_25
+  - first:
+      213: -3347737829275759376
+    second: SP_Sheet_GameElements_26
+  - first:
+      213: 347974238884309012
+    second: SP_Sheet_GameElements_27
+  - first:
+      213: 4024239324745265350
+    second: SP_Sheet_GameElements_28
+  - first:
+      213: -7230345629646229284
+    second: SP_Sheet_GameElements_29
+  - first:
+      213: 7919163049762138313
+    second: SP_Sheet_GameElements_30
+  - first:
+      213: 7930269720954786210
+    second: SP_Sheet_GameElements_31
+  - first:
+      213: 2285226454168485194
+    second: SP_Sheet_GameElements_32
+  - first:
+      213: 264855267958367253
+    second: SP_Sheet_GameElements_33
+  - first:
+      213: -7350471570411042109
+    second: SP_Sheet_GameElements_34
+  - first:
+      213: 7821272273397509815
+    second: SP_Sheet_GameElements_35
+  - first:
+      213: -5325804783766376595
+    second: SP_Sheet_GameElements_36
+  - first:
+      213: -2306621060300649532
+    second: SP_Sheet_GameElements_37
+  - first:
+      213: 694800484913066796
+    second: SP_Sheet_GameElements_38
+  - first:
+      213: 362156284926107660
+    second: SP_Sheet_GameElements_39
+  - first:
+      213: -5501731957358456489
+    second: SP_Sheet_GameElements_40
+  - first:
+      213: -1446588204627682266
+    second: SP_Sheet_GameElements_41
+  - first:
+      213: 7658456145656639699
+    second: SP_Sheet_GameElements_42
+  - first:
+      213: -7592267837470432058
+    second: SP_Sheet_GameElements_43
+  - first:
+      213: -3395608026482230182
+    second: SP_Sheet_GameElements_44
+  - first:
+      213: -8631864813504950604
+    second: SP_Sheet_GameElements_45
+  - first:
+      213: -8129308490970156786
+    second: SP_Sheet_GameElements_46
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SP_Sheet_GameElements_2
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1181
+        width: 150
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10719d47e0003445b3e7fcb43b9258f
+      internalID: 5861541131833664673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_GameElements_3
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1185
+        width: 176
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a77299956bc0ed489c70c11eebfe07e
+      internalID: -5541865641664223647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_GameElements_10
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1104
+        width: 250
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed3237859b38a54daccf6359f7120e0
+      internalID: -6610346629732831479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_GameElements_13
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1041
+        width: 246
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201293676e1af6647803f5697bb08896
+      internalID: -379093980428881343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_GameElements_22
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 823
+        width: 210
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef4b205cab0ce140bbb0f77c119dece
+      internalID: 7137452547237075159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_GameElements_28
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 714
+        width: 178
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c0da416c0596e47a129a785b6d5e52
+      internalID: 4024239324745265350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_GameElements_29
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 750
+        width: 203
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f4c11e25fdf784aacb488097c6e06d
+      internalID: -7230345629646229284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_GameElements_32
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 606
+        width: 183
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97fe1d6c32595174ab1515c3f227324f
+      internalID: 2285226454168485194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_GameElements_40
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 496
+        width: 182
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a9acbfa77fa3a499c97a56676c4fa3
+      internalID: -5501731957358456489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_GameElements_41
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 239
+        width: 116
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d4dc911f3b7dd46890d663fcaecf30
+      internalID: -1446588204627682266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_GameElements_42
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 496
+        width: 175
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c019d6d61438384bbf0a5b2241dd573
+      internalID: 7658456145656639699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_GameElements_46
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1180
+        width: 149
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40390602fe2b3e4cbd4fa4efc32467b
+      internalID: -8129308490970156786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_GameElements_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1035
+        width: 249
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86990518391bdd444a14521794cb8c04
+      internalID: -4044627308257269237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_GameElements_4
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 605
+        width: 178
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2b0b8e741cb084bad0468376b14747
+      internalID: 4860634621280885771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_GameElements_1
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 865
+        width: 210
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77f27c80c5258044b2b11e4429c2062
+      internalID: -7383940997557548574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_GameElements_5
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 239
+        width: 116
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7243a3d8d4ef1ff4a8da8f27eadf7f7c
+      internalID: -814247119516405713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_GameElements_6
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 239
+        width: 116
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf16d19be5f0e948a52fac44f0d2b22
+      internalID: 4051979618834562675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_GameElements_7
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 55
+        width: 116
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5a48d2ef186f84b9e3166374663ae9
+      internalID: 7967109476607344857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_GameElements_8
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 55
+        width: 116
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5260521c5dd93d40b94ac8bec158e9b
+      internalID: -1363762652754919130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

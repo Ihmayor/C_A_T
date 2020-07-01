@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b6557b3b64034474a336be6c7f9b7c7, type: 3}
+  m_Name: 0_Level
+  m_EditorClassIdentifier: 
+  LevelNumber: 0
+  BackgroundImage: {fileID: 21300000, guid: 09625d33411b8ab4ca6dd92165401aa1, type: 3}
+  LevelPrefab: {fileID: 7402944191461599146, guid: 3223a60f7dd24d14fa3f77fb41e2cb6e,
+    type: 3}
+  playerStartPosiiton: {x: 2.24, y: -2.91}
+  slot1: {fileID: 11400000, guid: d3b5beb3dea684d4e88bc8cd91635451, type: 2}
+  slot2: {fileID: 0}
+  slot3: {fileID: 0}
+  slot4: {fileID: 0}
+  buff1: {fileID: 0}
+  buff2: {fileID: 0}
+  buff3: {fileID: 0}
+  buff4: {fileID: 0}
+  buff5: {fileID: 0}

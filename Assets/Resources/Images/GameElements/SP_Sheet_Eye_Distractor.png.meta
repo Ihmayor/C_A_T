@@ -1,0 +1,2719 @@
+fileFormatVersion: 2
+guid: 3efefaca2aa61b64ba4df73768b221da
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 684978208962243382
+    second: SP_Sheet_Eye_Distractor_0
+  - first:
+      213: 8375707944908941645
+    second: SP_Sheet_Eye_Distractor_1
+  - first:
+      213: -4484551045403828562
+    second: SP_Sheet_Eye_Distractor_2
+  - first:
+      213: 7789115079903998060
+    second: SP_Sheet_Eye_Distractor_3
+  - first:
+      213: 8927740550904592782
+    second: SP_Sheet_Eye_Distractor_4
+  - first:
+      213: 6512045336823955794
+    second: SP_Sheet_Eye_Distractor_5
+  - first:
+      213: -7920870088330482278
+    second: SP_Sheet_Eye_Distractor_6
+  - first:
+      213: 3220825627308584554
+    second: SP_Sheet_Eye_Distractor_7
+  - first:
+      213: -5146423877332964597
+    second: SP_Sheet_Eye_Distractor_8
+  - first:
+      213: -4181789582815586651
+    second: SP_Sheet_Eye_Distractor_9
+  - first:
+      213: -7697370232613111416
+    second: SP_Sheet_Eye_Distractor_10
+  - first:
+      213: 6512725688987362991
+    second: SP_Sheet_Eye_Distractor_11
+  - first:
+      213: -5621435834118906484
+    second: SP_Sheet_Eye_Distractor_12
+  - first:
+      213: -4885929506720089535
+    second: SP_Sheet_Eye_Distractor_13
+  - first:
+      213: 8221079842990590861
+    second: SP_Sheet_Eye_Distractor_14
+  - first:
+      213: 1233815120501038126
+    second: SP_Sheet_Eye_Distractor_15
+  - first:
+      213: 3731944660086626773
+    second: SP_Sheet_Eye_Distractor_16
+  - first:
+      213: -6713615425448589863
+    second: SP_Sheet_Eye_Distractor_17
+  - first:
+      213: -5152835095883015698
+    second: SP_Sheet_Eye_Distractor_18
+  - first:
+      213: -7130483996051745588
+    second: SP_Sheet_Eye_Distractor_19
+  - first:
+      213: -4244024962441988894
+    second: SP_Sheet_Eye_Distractor_20
+  - first:
+      213: -8297560217245012663
+    second: SP_Sheet_Eye_Distractor_21
+  - first:
+      213: 1972829758102426918
+    second: SP_Sheet_Eye_Distractor_22
+  - first:
+      213: 4377052590481565410
+    second: SP_Sheet_Eye_Distractor_23
+  - first:
+      213: -3204205641825193714
+    second: SP_Sheet_Eye_Distractor_24
+  - first:
+      213: -7408673698045211041
+    second: SP_Sheet_Eye_Distractor_25
+  - first:
+      213: 3069195975978070644
+    second: SP_Sheet_Eye_Distractor_26
+  - first:
+      213: 2205074072131730225
+    second: SP_Sheet_Eye_Distractor_27
+  - first:
+      213: 7720815349278921979
+    second: SP_Sheet_Eye_Distractor_28
+  - first:
+      213: 80746597258709954
+    second: SP_Sheet_Eye_Distractor_29
+  - first:
+      213: 7741852372053992901
+    second: SP_Sheet_Eye_Distractor_30
+  - first:
+      213: -4721671690397400565
+    second: SP_Sheet_Eye_Distractor_31
+  - first:
+      213: 7907680320338538317
+    second: SP_Sheet_Eye_Distractor_32
+  - first:
+      213: -1040582025608837037
+    second: SP_Sheet_Eye_Distractor_33
+  - first:
+      213: -5373744041180492441
+    second: SP_Sheet_Eye_Distractor_34
+  - first:
+      213: 7010985793791557051
+    second: SP_Sheet_Eye_Distractor_35
+  - first:
+      213: -2015459511875062734
+    second: SP_Sheet_Eye_Distractor_36
+  - first:
+      213: 4959459881786988087
+    second: SP_Sheet_Eye_Distractor_37
+  - first:
+      213: -7137634091639063098
+    second: SP_Sheet_Eye_Distractor_38
+  - first:
+      213: 891035563217173204
+    second: SP_Sheet_Eye_Distractor_39
+  - first:
+      213: 4147833007338400175
+    second: SP_Sheet_Eye_Distractor_40
+  - first:
+      213: 6160376728595418237
+    second: SP_Sheet_Eye_Distractor_41
+  - first:
+      213: 7614714577342050910
+    second: SP_Sheet_Eye_Distractor_42
+  - first:
+      213: -773450573338933042
+    second: SP_Sheet_Eye_Distractor_43
+  - first:
+      213: 4761937567718024612
+    second: SP_Sheet_Eye_Distractor_44
+  - first:
+      213: -3180849460020207839
+    second: SP_Sheet_Eye_Distractor_45
+  - first:
+      213: 3759960511979076287
+    second: SP_Sheet_Eye_Distractor_46
+  - first:
+      213: 2356700196232781565
+    second: SP_Sheet_Eye_Distractor_47
+  - first:
+      213: 6773242302351586942
+    second: SP_Sheet_Eye_Distractor_48
+  - first:
+      213: 503660122889429424
+    second: SP_Sheet_Eye_Distractor_49
+  - first:
+      213: -3779183967328614827
+    second: SP_Sheet_Eye_Distractor_50
+  - first:
+      213: 6711091267403652857
+    second: SP_Sheet_Eye_Distractor_51
+  - first:
+      213: 442404888404441888
+    second: SP_Sheet_Eye_Distractor_52
+  - first:
+      213: 3523155748702653577
+    second: SP_Sheet_Eye_Distractor_53
+  - first:
+      213: -3669551722166423736
+    second: SP_Sheet_Eye_Distractor_54
+  - first:
+      213: 2849771205269817352
+    second: SP_Sheet_Eye_Distractor_55
+  - first:
+      213: 5492996336515520807
+    second: SP_Sheet_Eye_Distractor_56
+  - first:
+      213: -210117401640271155
+    second: SP_Sheet_Eye_Distractor_57
+  - first:
+      213: -4698912787228161637
+    second: SP_Sheet_Eye_Distractor_58
+  - first:
+      213: 9213366154711627835
+    second: SP_Sheet_Eye_Distractor_59
+  - first:
+      213: -1885278379460286183
+    second: SP_Sheet_Eye_Distractor_60
+  - first:
+      213: -2012789355271459673
+    second: SP_Sheet_Eye_Distractor_61
+  - first:
+      213: -7226274921207659104
+    second: SP_Sheet_Eye_Distractor_62
+  - first:
+      213: 3480509135175017858
+    second: SP_Sheet_Eye_Distractor_63
+  - first:
+      213: -3439838762989660231
+    second: SP_Sheet_Eye_Distractor_64
+  - first:
+      213: 2129341010464633286
+    second: SP_Sheet_Eye_Distractor_65
+  - first:
+      213: 3419089637991777268
+    second: SP_Sheet_Eye_Distractor_66
+  - first:
+      213: -7454117358964864906
+    second: SP_Sheet_Eye_Distractor_67
+  - first:
+      213: -6070453430140243765
+    second: SP_Sheet_Eye_Distractor_68
+  - first:
+      213: -8143728141612730808
+    second: SP_Sheet_Eye_Distractor_69
+  - first:
+      213: 3473549826242145673
+    second: SP_Sheet_Eye_Distractor_70
+  - first:
+      213: -8538743055706281965
+    second: SP_Sheet_Eye_Distractor_71
+  - first:
+      213: 6332330383287595278
+    second: SP_Sheet_Eye_Distractor_72
+  - first:
+      213: 1050924730644120575
+    second: SP_Sheet_Eye_Distractor_73
+  - first:
+      213: -5001428012229148689
+    second: SP_Sheet_Eye_Distractor_74
+  - first:
+      213: -5762682339107019370
+    second: SP_Sheet_Eye_Distractor_75
+  - first:
+      213: -5057140928740608109
+    second: SP_Sheet_Eye_Distractor_76
+  - first:
+      213: 524303824226519788
+    second: SP_Sheet_Eye_Distractor_77
+  - first:
+      213: 629881036004946068
+    second: SP_Sheet_Eye_Distractor_78
+  - first:
+      213: -5528986253427339224
+    second: SP_Sheet_Eye_Distractor_79
+  - first:
+      213: 8695036633516136699
+    second: SP_Sheet_Eye_Distractor_80
+  - first:
+      213: 8062820583129179045
+    second: SP_Sheet_Eye_Distractor_81
+  - first:
+      213: -6167275144297572816
+    second: SP_Sheet_Eye_Distractor_82
+  - first:
+      213: -5954520634471313009
+    second: SP_Sheet_Eye_Distractor_83
+  - first:
+      213: -8578174656182325812
+    second: SP_Sheet_Eye_Distractor_84
+  - first:
+      213: -1720855683118561264
+    second: SP_Sheet_Eye_Distractor_85
+  - first:
+      213: 4477698380152253359
+    second: SP_Sheet_Eye_Distractor_86
+  - first:
+      213: 1385585650788229482
+    second: SP_Sheet_Eye_Distractor_87
+  - first:
+      213: -2852376940370609342
+    second: SP_Sheet_Eye_Distractor_88
+  - first:
+      213: -4683403028948579749
+    second: SP_Sheet_Eye_Distractor_89
+  - first:
+      213: -5977078647151294873
+    second: SP_Sheet_Eye_Distractor_90
+  - first:
+      213: 235478277757656037
+    second: SP_Sheet_Eye_Distractor_91
+  - first:
+      213: 1792535119707713484
+    second: SP_Sheet_Eye_Distractor_92
+  - first:
+      213: -4717409923085966099
+    second: SP_Sheet_Eye_Distractor_93
+  - first:
+      213: -5276902478884452389
+    second: SP_Sheet_Eye_Distractor_94
+  - first:
+      213: 517068683293910671
+    second: SP_Sheet_Eye_Distractor_95
+  - first:
+      213: -9175410503087927561
+    second: SP_Sheet_Eye_Distractor_96
+  - first:
+      213: -3440287039122178545
+    second: SP_Sheet_Eye_Distractor_97
+  - first:
+      213: -8707057136391410837
+    second: SP_Sheet_Eye_Distractor_98
+  - first:
+      213: 6091145173044234917
+    second: SP_Sheet_Eye_Distractor_99
+  - first:
+      213: 8676909126317541808
+    second: SP_Sheet_Eye_Distractor_100
+  - first:
+      213: 8518584558844031747
+    second: SP_Sheet_Eye_Distractor_101
+  - first:
+      213: 265397459114130758
+    second: SP_Sheet_Eye_Distractor_102
+  - first:
+      213: -5404668466141094685
+    second: SP_Sheet_Eye_Distractor_103
+  - first:
+      213: 6572799295134066302
+    second: SP_Sheet_Eye_Distractor_104
+  - first:
+      213: -5764255350851109868
+    second: SP_Sheet_Eye_Distractor_105
+  - first:
+      213: -1820467901022364468
+    second: SP_Sheet_Eye_Distractor_106
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6210
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3c396bad1fbb74eb17e7f921524861
+      internalID: 684978208962243382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_1
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 6210
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67addf33e119c2a4c80a52668e6bcf5d
+      internalID: 8375707944908941645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_2
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 6210
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e170f46aeb0fbb14faa6fecdf61069e4
+      internalID: -4484551045403828562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_3
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 6210
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b278c8052b8904eaca47cca3beda61
+      internalID: 7789115079903998060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_4
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 6210
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995a142ba98624748bca04c32ab3be36
+      internalID: 8927740550904592782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5940
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5165f861b45faeb499f1c27e0b9efe1f
+      internalID: 6512045336823955794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_6
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 5940
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf84a9889dc98c4e9719a9bacd7c24a
+      internalID: -7920870088330482278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_7
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 5940
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad43ba0f2296e448978b0689d53feda
+      internalID: 3220825627308584554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_8
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 5940
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58706bfb4e8ff9e4fa47f6bb12b28d4f
+      internalID: -5146423877332964597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_9
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 5940
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09960f30ec8755d4da4c26984d81ea3b
+      internalID: -4181789582815586651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5670
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089c6e24cedd44c49b613e25eccea6eb
+      internalID: -7697370232613111416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_11
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 5670
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1cf8e1c8ec38374fbed81ccb8bbc396
+      internalID: 6512725688987362991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_12
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 5670
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da28aca61512a0429348d3440d1ebbe
+      internalID: -5621435834118906484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_13
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 5670
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f8b3a6ed2e63746b86b0b3a5acabd0
+      internalID: -4885929506720089535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_14
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 5670
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f338858ae8a4a49b6a883d5edc3db7
+      internalID: 8221079842990590861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5400
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9f5f67a6b438741bfb776d1dd8d7f9
+      internalID: 1233815120501038126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_16
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 5400
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1296b58d8cf57564a8d5f3cba2a338e2
+      internalID: 3731944660086626773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_17
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 5400
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a89cce6b1017247ba4349a83bf6562
+      internalID: -6713615425448589863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_18
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 5400
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e41e49c50233a94ead62abf90a30b7b
+      internalID: -5152835095883015698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_19
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 5400
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e6a8982170d46469f09d4921e24c17
+      internalID: -7130483996051745588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5130
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a97b8d41b5b9f4885965762288afb7
+      internalID: -4244024962441988894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_21
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 5130
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c6af5076a7b78418544c68e3eb14f5
+      internalID: -8297560217245012663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_22
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 5130
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5219c42048ac4a94a9d9219bb72936bb
+      internalID: 1972829758102426918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_23
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 5130
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2739a5117fff6944d8769a0d88d160aa
+      internalID: 4377052590481565410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_24
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 5130
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05bc0bb8bad23e24ab38a617028eb3ad
+      internalID: -3204205641825193714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4860
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b22dc32edb7d2240b0180d4cacc65b2
+      internalID: -7408673698045211041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_26
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 4860
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc1434d97ff292438d2518ad35f196a
+      internalID: 3069195975978070644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_27
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 4860
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2704c9cacd20a44fa44470afdb7830e
+      internalID: 2205074072131730225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_28
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 4860
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69faebafb9c2dc43b29930fe896ca17
+      internalID: 7720815349278921979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_29
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 4860
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd140154ad95e294bbdf9ba9f89d5142
+      internalID: 80746597258709954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4590
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093da26c6d16a1147803c363e695b3c1
+      internalID: 7741852372053992901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_31
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 4590
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8daba501a14a3b944a78246bd40c140a
+      internalID: -4721671690397400565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_32
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 4590
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75a227b4bd69214da7ef797810ae3ca
+      internalID: 7907680320338538317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_33
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 4590
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b911293edb996748916eb4294192ff2
+      internalID: -1040582025608837037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_34
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 4590
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809fb10d339ee2e44a45b8ebaea2b064
+      internalID: -5373744041180492441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4320
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa01d243b99473449b6a32620e9668c6
+      internalID: 7010985793791557051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_36
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 4320
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424cf3a8bc118974cbd33ed741dcb531
+      internalID: -2015459511875062734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_37
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 4320
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06715c29743896408ad3c43ffcf2a99
+      internalID: 4959459881786988087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_38
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 4320
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6046472b14b288e4ea6f138e47e60d54
+      internalID: -7137634091639063098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_39
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 4320
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba01efe81523baf42a834a5db5bfb601
+      internalID: 891035563217173204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4050
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ae6dfcb7223384cab52806393c44de
+      internalID: 4147833007338400175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_41
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 4050
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c7fe8c6603b7c4ead6c7428bfba99f
+      internalID: 6160376728595418237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_42
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 4050
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25b8539968db8f408d452d97c63a0b0
+      internalID: 7614714577342050910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_43
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 4050
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c921ec3c179872c4b83d540c8c754531
+      internalID: -773450573338933042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_44
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 4050
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6accc125caccc024fa34af1f7704746e
+      internalID: 4761937567718024612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3780
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a236dc9e8d7b02346a293ac5ac0a81de
+      internalID: -3180849460020207839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_46
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 3780
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6952b4c84019d4fb0825fa4164cc54
+      internalID: 3759960511979076287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_47
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 3780
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6d70bccf1a3ee45a80f0ffcb700fb5
+      internalID: 2356700196232781565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_48
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 3780
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9056af8bb38b5347b947e997bb1a842
+      internalID: 6773242302351586942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_49
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 3780
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7dca9cb65313742a74e4cf7b075e4e
+      internalID: 503660122889429424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3510
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb4da3f88f08db43bbfc20cb7872f34
+      internalID: -3779183967328614827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_51
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 3510
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10bfad8cc4c984040baa2d82548cbf22
+      internalID: 6711091267403652857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_52
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 3510
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11581ac04156d24386394538719142b
+      internalID: 442404888404441888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_53
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 3510
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d61736a9652494d863fafb2853f8ae
+      internalID: 3523155748702653577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_54
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 3510
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba1e296bddc16be41b67a6bf806021f4
+      internalID: -3669551722166423736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3240
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19fc3957a9837dc4aadb5df2517edbd6
+      internalID: 2849771205269817352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_56
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 3240
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c3a830ad385ad4a8be035537f1d568
+      internalID: 5492996336515520807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_57
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 3240
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9c757d94eedb04492e4dfea196e805
+      internalID: -210117401640271155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_58
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 3240
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dad523adc075de4c82651790e12d606
+      internalID: -4698912787228161637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_59
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 3240
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e57843324bd824a8dd59f5cb179323
+      internalID: 9213366154711627835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2970
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d94e831182c87489894245eb4a219e
+      internalID: -1885278379460286183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_61
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 2970
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781aa6da9a768f44db609380074e8797
+      internalID: -2012789355271459673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_62
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2970
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a062b39b350f53f429e18c2ea54b98f3
+      internalID: -7226274921207659104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_63
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 2970
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8695841fc4c8411479b38076ac78b49f
+      internalID: 3480509135175017858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_64
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2970
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b90041bf14d4e24389f2b7cfc98854b
+      internalID: -3439838762989660231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2700
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa9793c609d8134fa901eaef49ad815
+      internalID: 2129341010464633286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_66
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 2700
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274029d2c382ee146b6c6daa4ec9ac27
+      internalID: 3419089637991777268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_67
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2700
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf940e3f0b7de97478a716ae8cdb631a
+      internalID: -7454117358964864906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_68
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 2700
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91bcd035bf01624c8de9c94346f1e0b
+      internalID: -6070453430140243765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_69
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2700
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47cd726e00300b44f8c70f12746a6c67
+      internalID: -8143728141612730808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2430
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2bf177c0e7debf4591914b4235be726
+      internalID: 3473549826242145673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_71
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 2430
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff9e4655b5f5a444be2a911aa6aa1f5
+      internalID: -8538743055706281965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_72
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2430
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129004800af5c0c4893bdaf8f709c538
+      internalID: 6332330383287595278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_73
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 2430
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d40dbf8d829fa4b9cc2ad7e22e2e3e
+      internalID: 1050924730644120575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_74
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2430
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc540578c8c72d242aa5696cabc17912
+      internalID: -5001428012229148689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2160
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d389e403a3dc73f48830992d1a26d5e9
+      internalID: -5762682339107019370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_76
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 2160
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe81a50dbb8dd73428b31ea1d7b55624
+      internalID: -5057140928740608109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_77
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2160
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba2c774e2312a3458aa27c72bc00d35
+      internalID: 524303824226519788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_78
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 2160
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2175d03a3df79547bd4436ad5fd419d
+      internalID: 629881036004946068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_79
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2160
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b8af95ce2ca8345ae3f494ae64ba19
+      internalID: -5528986253427339224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1890
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad2549c1a3dd36498834fa6e20acf84
+      internalID: 8695036633516136699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_81
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1890
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865363e076019934f9f79ba17c499ef2
+      internalID: 8062820583129179045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_82
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1890
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e90163278f96e418edc94144b5a17c
+      internalID: -6167275144297572816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_83
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1890
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1c84683785bb342815a5b7887cd8d8
+      internalID: -5954520634471313009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_84
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1890
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e8cdcad5a6c084496e5980603116c1
+      internalID: -8578174656182325812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1620
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e26c966278b6948b53e8de3e4822e8
+      internalID: -1720855683118561264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_86
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1620
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235ee7b1b703f3f419793f9d7fb516d5
+      internalID: 4477698380152253359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_87
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1620
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3ef553ecb9de949b0ffa1b1c47ad7f
+      internalID: 1385585650788229482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_88
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1620
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca83cedab4ac0f4e8ed1339c1a2734a
+      internalID: -2852376940370609342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_89
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1620
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55fb7d63b3ef0c40bd018a0bfabc8c0
+      internalID: -4683403028948579749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1350
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b25157138afac4bbfbe5d3c6caf7b9
+      internalID: -5977078647151294873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_91
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1350
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719fe7f01799b7e43b6fb68de531321c
+      internalID: 235478277757656037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_92
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1350
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22cdacd0539c5c842914c9ddfba62656
+      internalID: 1792535119707713484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_93
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1350
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46d57d42406def43b3066af0a835bbc
+      internalID: -4717409923085966099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_94
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1350
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9afcb7c64ed9c9446b514ce186250b87
+      internalID: -5276902478884452389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a511855b726f7544b071f2d304a8b01
+      internalID: 517068683293910671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_96
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1080
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2af7a0559cbec488bcd46657ade4c0
+      internalID: -9175410503087927561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_97
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1080
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42d9f3f94ff85141a3103263362f855
+      internalID: -3440287039122178545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_98
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1080
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79bbf4c0ac45ee43bf9747a3a76b73c
+      internalID: -8707057136391410837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_99
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1080
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff83b70e6a64c94c9830ee90a3cfbd7
+      internalID: 6091145173044234917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 810
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295ec235a0f76e64787763b862136407
+      internalID: 8676909126317541808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_101
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 810
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d0a54acfd4652449a840cf65c081b0
+      internalID: 8518584558844031747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_102
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 810
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554bcc50da0fe3c4fad851092da854eb
+      internalID: 265397459114130758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_103
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 810
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c17d02875b97d646a52cd01dd9d2686
+      internalID: -5404668466141094685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_104
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 810
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e04dc6ca3256349aab4199041af615
+      internalID: 6572799295134066302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 540
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a82bf3e2d57f444cb5b42336b5cbda4
+      internalID: -5764255350851109868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Sheet_Eye_Distractor_106
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 540
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9265b76734fa3e040b1ef2422f742ad2
+      internalID: -1820467901022364468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
