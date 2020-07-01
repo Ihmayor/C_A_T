@@ -1,3 +1,5 @@
+Migrated from CDM's Gitlab Server. 
+
 # Clouds Awakening Trouble: Rickety Risks and Magic Tricks
 
 A collaborative project with fellow Centre for Digital Media Cohort C14 Members: Jeanette (UX/UI Designer), Maple (Project Manger), Andre (2D/3D Artist), Alessandra(UX/UI Designer), and myself Irene (Programmer). 
