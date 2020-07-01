@@ -7,15 +7,11 @@ A collaborative project with fellow Centre for Digital Media Cohort C14 Members:
 A mobile 2D game with stacking and balancing mechanics. As per the challenge design, it also incoporates a proof of concept reward/buff system. Aside from implementing iterative game design development, it makes usage of ScriptableDataObjects for scalable code. 
 
 
-# Instructions to Download these Draft Unity Apps onto your phones:
+# Instructions for using XCODE for temporary deployment to IOS devices (Without TestFlight Access):
 
-I'm looking into making this download process smoother but i'm not going to focus on that until i really need to publish this. 
+1) Download the build zip file and unzip it into a folder on your DESKTOP  folder. this is important.
 
-1) download the zip file and unzip it into a folder on your DESKTOP  folder. this is important.
-
-2) This step is going to be a little tricky.
-
-Open Finder > Applications > Utilities > Terminal. If you're not used to a terminal, this is going to feel weird. This is to give your computer permission to 
+2) Open Finder > Applications > Utilities > Terminal. If you're not used to a terminal, this is going to feel weird. This is to give your computer permission to 
 use these files for the app. 
 
 Type in the following. 
